@@ -1,0 +1,57 @@
+.visit-campus-to {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 500;
+}
+.garden-estate-off10 {
+  position: relative;
+  font-size: var(--desktop-link-x-small-size);
+  line-height: 177.02%;
+}
+.campus2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.vector-icon268 {
+  position: relative;
+  width: 15px;
+  height: 15px;
+}
+.view-location4,
+.view-locations-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.view-location4 {
+  border-radius: var(--br-9xs);
+  background-color: var(--white);
+  padding: var(--padding-8xs) var(--padding-3xs);
+  color: var(--blue);
+}
+.view-locations-parent {
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--borders);
+}
+.campus-location2 {
+  position: absolute;
+  top: 1437px;
+  left: 904px;
+  background-color: var(--color-gray-500);
+  width: 784px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: space-between;
+  text-align: left;
+  font-size: var(--desktop-link-small-size);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

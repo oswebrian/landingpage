@@ -1,0 +1,64 @@
+.accessible,
+.accredited1,
+.affordable1 {
+  position: absolute;
+  top: 113px;
+  left: 10px;
+  display: inline-block;
+  width: 70px;
+}
+.accessible,
+.accredited1 {
+  left: 248px;
+  width: 72px;
+}
+.accredited1 {
+  left: 485px;
+  width: 73px;
+}
+.relevant {
+  margin: 0;
+}
+.relevant-to-ministry-container {
+  position: absolute;
+  top: 113px;
+  left: 723px;
+  text-align: center;
+  display: inline-block;
+  width: 74px;
+}
+.group-child26 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 91px;
+  height: 91px;
+}
+.group-child27,
+.group-child28,
+.group-child29 {
+  position: absolute;
+  top: 0;
+  left: 238px;
+  width: 91px;
+  height: 91px;
+}
+.group-child28,
+.group-child29 {
+  top: 4px;
+  left: 476px;
+}
+.group-child29 {
+  left: 715px;
+}
+.affordable-parent {
+  position: absolute;
+  top: 1663px;
+  left: 739px;
+  width: 806px;
+  height: 147px;
+  text-align: left;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

@@ -1,0 +1,68 @@
+.certificate-in-bible2 {
+  margin: 0;
+}
+.all-programs-pamphlet-container3 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.all-programs-pamphlet-wrapper6,
+.this-contains-all-information-wrapper6 {
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.all-programs-pamphlet-wrapper6 {
+  width: 364px;
+  display: flex;
+}
+.this-contains-all-information-wrapper6 {
+  width: 346px;
+  display: none;
+}
+.mbs8 {
+  position: relative;
+  font-weight: 500;
+}
+.mbs-wrapper6 {
+  width: 364px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+}
+.vector-icon283 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.downloads-item-row8,
+.open-in-browser-parent6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.open-in-browser-parent6 {
+  width: 364px;
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  color: var(--borders);
+}
+.downloads-item-row8 {
+  align-self: stretch;
+  border-right: 1px solid var(--borders);
+  border-bottom: 1px solid var(--borders);
+  border-left: 1px solid var(--borders);
+  padding: var(--padding-8xs) 0;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

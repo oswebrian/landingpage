@@ -1,0 +1,162 @@
+.news-section-item {
+  position: relative;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1343px;
+  height: 1px;
+}
+.more1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--borders);
+}
+.news-section1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.mask-group-icon7 {
+  position: relative;
+  width: 1092px;
+  height: 632px;
+  object-fit: cover;
+}
+.registrars-office {
+  position: relative;
+  font-weight: 600;
+}
+.from-to-date-child5,
+.to-all {
+  position: relative;
+  display: none;
+}
+.from-to-date-child5 {
+  border-radius: 50%;
+  background-color: var(--borders);
+  width: 5px;
+  height: 5px;
+}
+.to-all {
+  font-weight: 600;
+}
+.from-to-date-child6 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--borders);
+  width: 5px;
+  height: 5px;
+}
+.from-to-date4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.the-nairobi-pentecostal1 {
+  position: relative;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  color: var(--blue);
+  text-align: justify;
+  display: inline-block;
+  width: 1092px;
+}
+.from-to-date-parent {
+  background-color: var(--white);
+  padding: var(--padding-xl) 0;
+  gap: var(--gap-xl);
+}
+.from-to-date-parent,
+.mask-group-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mask-group-icon8 {
+  position: relative;
+  width: 536px;
+  height: 250px;
+  object-fit: cover;
+}
+.student-portals-have4 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--blue);
+  text-align: justify;
+}
+.news-info {
+  flex: 1;
+  background-color: var(--white);
+  width: 536px;
+  flex-direction: column;
+  padding: var(--padding-xl) 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+}
+.from-to-date6,
+.mask-group-parent3,
+.news-info {
+  display: flex;
+  justify-content: flex-start;
+}
+.mask-group-parent3 {
+  height: 392px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.from-to-date6 {
+  width: 536px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs);
+}
+.npbc-launches-the {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--blue);
+  text-align: justify;
+  display: inline-block;
+  width: 536px;
+}
+.default-news,
+.frame-parent224,
+.frame-parent225 {
+  display: flex;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frame-parent225 {
+  height: 554px;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--font-size-lg);
+}
+.default-news,
+.frame-parent224 {
+  flex-direction: row;
+  align-items: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--borders);
+}
+.default-news {
+  position: absolute;
+  top: 1079px;
+  left: 40px;
+  flex-direction: column;
+  padding: var(--padding-3xs) 0;
+  gap: var(--gap-21xl);
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

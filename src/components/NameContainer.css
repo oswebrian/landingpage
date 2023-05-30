@@ -1,0 +1,37 @@
+.first-name144 {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 500;
+}
+.vector-icon309 {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  display: none;
+}
+.first-name-parent142 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-child130 {
+  position: relative;
+  background-color: var(--color-darkslateblue-300);
+  border-bottom: 1px solid var(--borders);
+  box-sizing: border-box;
+  width: 290px;
+  height: 56px;
+}
+.frame-parent260 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  z-index: 0;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

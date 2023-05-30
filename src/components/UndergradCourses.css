@@ -1,0 +1,47 @@
+.vector-icon269 {
+  position: relative;
+  width: 114.45px;
+  height: 80px;
+}
+.undergraduate-programs2 {
+  position: relative;
+  font-weight: 600;
+}
+.vector-parent40 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.graduate-with-a {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-darkslateblue-400);
+  text-align: justify;
+  display: inline-block;
+  width: 300px;
+}
+.frame-parent243,
+.undergrad-courses {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent243 {
+  align-items: center;
+  gap: var(--gap-31xl);
+}
+.undergrad-courses {
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(20px);
+  padding: var(--padding-41xl) var(--padding-xl);
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

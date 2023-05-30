@@ -1,0 +1,42 @@
+.frame-child88 {
+  position: relative;
+  width: 92px;
+  height: 92px;
+}
+.foster-spiritual-formation {
+  position: relative;
+  display: inline-block;
+  width: 245px;
+}
+.group-parent22 {
+  width: 275px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: left;
+}
+.increase-student-enrollment {
+  align-self: stretch;
+  position: relative;
+}
+.frame-parent252,
+.group-parent23 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-parent23 {
+  width: 275px;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+}
+.frame-parent252 {
+  flex-direction: row;
+  gap: var(--gap-111xl);
+  text-align: center;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

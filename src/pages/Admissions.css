@@ -1,0 +1,687 @@
+.admissions-child,
+.admissions-item {
+  position: absolute;
+  top: 468px;
+  left: 40px;
+  background-color: var(--color-gray-700);
+  width: 807px;
+  height: 152px;
+}
+.admissions-item {
+  top: 425px;
+  background-color: var(--maroon);
+  width: 195px;
+  height: 43px;
+}
+.our-assurance {
+  position: absolute;
+  top: 437px;
+  left: 82px;
+  font-size: 14.67px;
+  color: var(--white);
+}
+.we-boast-of {
+  margin: 0;
+}
+.we-boast-of-container {
+  position: absolute;
+  top: 508px;
+  left: 80px;
+  font-size: 29.33px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 727px;
+}
+.location7 {
+  font-weight: 600;
+}
+.garden-estate-off3,
+.location7 {
+  font-family: var(--desktop-link-x-small);
+}
+.adminnpbccoke11 {
+  text-decoration: underline;
+}
+.adminnpbccoke10 {
+  color: inherit;
+}
+.location-garden-estate-container3 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  line-height: 177.02%;
+}
+.news-and-events6 {
+  margin: 0;
+  color: inherit;
+}
+.npbc-online-reflection-container3 {
+  position: absolute;
+  top: 62px;
+  left: 1146px;
+  line-height: 177.02%;
+}
+.admissions-student-life-container3,
+.history-mission-container3 {
+  position: absolute;
+  top: 62px;
+  left: 806px;
+  line-height: 177.02%;
+}
+.history-mission-container3 {
+  left: 466px;
+}
+.explore3,
+.npbc6,
+.quick-links3,
+.research3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  color: var(--white);
+}
+.explore3,
+.quick-links3,
+.research3 {
+  left: 806px;
+}
+.explore3,
+.research3 {
+  left: 1146px;
+}
+.explore3 {
+  left: 466px;
+}
+.location-garden-estate-off-th-parent1 {
+  position: relative;
+  width: 1309px;
+  height: 262px;
+}
+.footer7,
+.g5a0631-1-scaled-1-icon3 {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.footer7 {
+  top: 262px;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-60xl) var(--padding-190xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.g5a0631-1-scaled-1-icon3 {
+  top: 0;
+  height: 262px;
+  object-fit: cover;
+}
+.become-a-student-container3,
+.button3 {
+  position: relative;
+  line-height: 59.6px;
+}
+.button3 {
+  line-height: 28px;
+  font-weight: 600;
+}
+.button-primary3 {
+  border-radius: var(--br-xs);
+  background-color: var(--white);
+  width: 317px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+}
+.become-a-student-at-npbc-parent1 {
+  position: absolute;
+  top: 26px;
+  left: 625px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.g5a0631-1-scaled-1-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 262px;
+  text-align: center;
+  font-size: 46.52px;
+  color: var(--white);
+}
+.footer6 {
+  position: absolute;
+  top: 4438px;
+  left: 1px;
+  width: 1728px;
+  height: 682px;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--font-inherit);
+}
+.how-to-apply1 {
+  position: absolute;
+  top: 1050px;
+  left: 760px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+}
+.admission-process {
+  position: relative;
+  font-weight: 600;
+}
+.frame-child8 {
+  position: relative;
+  border-top: 2px solid var(--maroon);
+  box-sizing: border-box;
+  width: 995px;
+  height: 2px;
+}
+.union-icon {
+  position: relative;
+  width: 8px;
+  height: 37px;
+}
+.course {
+  margin: 0;
+  color: var(--blue);
+}
+.frame-parent6,
+.union-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frame-parent6 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-106xl);
+}
+.line-group {
+  align-items: flex-start;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--maroon);
+}
+.admission-process-parent,
+.admissions-inner,
+.line-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.admission-process-parent {
+  align-items: center;
+  gap: 38px;
+}
+.admissions-inner {
+  position: absolute;
+  top: 738px;
+  left: 321px;
+  background-color: var(--color-gray-600);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(20px);
+  padding: 30px 45px;
+  align-items: flex-start;
+  font-size: var(--font-size-9xl);
+  color: var(--white);
+}
+.admissions-child1 {
+  position: absolute;
+  top: 2142px;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+  width: 1728px;
+  height: 886px;
+}
+.we-have-courses,
+.we-offer-two {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-darkslateblue-400);
+  display: inline-block;
+}
+.we-offer-two {
+  top: 1133px;
+  left: 159px;
+  text-align: center;
+  width: 1410px;
+}
+.we-have-courses {
+  top: 2292px;
+  left: 643px;
+  width: 1045px;
+}
+.admissions-child2,
+.admissions-child3 {
+  position: absolute;
+  top: 1221px;
+  left: 0;
+  background-color: var(--maroon);
+  width: 864px;
+  height: 921px;
+}
+.admissions-child3 {
+  left: 864px;
+  background-color: var(--blue);
+}
+.online-application,
+.our-online-application,
+.physical-application,
+.the-physical-application {
+  position: absolute;
+  top: 1251px;
+  left: 273px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  color: var(--white);
+}
+.our-online-application,
+.physical-application,
+.the-physical-application {
+  left: 1120px;
+}
+.our-online-application,
+.the-physical-application {
+  top: 1315px;
+  left: 40px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 784px;
+}
+.the-physical-application {
+  left: 904px;
+}
+.admissions-child4 {
+  position: absolute;
+  top: 1426px;
+  left: 89px;
+  border-right: 2px solid var(--white);
+  box-sizing: border-box;
+  width: 2px;
+  height: 590px;
+}
+.group-parent3 {
+  position: absolute;
+  top: 1437px;
+  left: 91px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.icround-log-in-icon3 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.submit-filled-form {
+  position: relative;
+}
+.apply-now6 {
+  top: 2050px;
+  left: 1491px;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 197px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+  color: var(--maroon);
+}
+.apply-now6,
+.apply-now7,
+.contact-us,
+.view-courses {
+  position: absolute;
+  font-size: var(--desktop-link-x-small-size);
+}
+.apply-now7 {
+  top: 2050px;
+  left: 627px;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 197px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+  color: var(--maroon);
+}
+.contact-us,
+.view-courses {
+  top: 2065px;
+  left: 510px;
+  color: var(--color-gainsboro-200);
+}
+.view-courses {
+  left: 1357px;
+}
+.admissions-child5 {
+  position: absolute;
+  top: 3028px;
+  left: 1px;
+  background-color: var(--white);
+  width: 1728px;
+  height: 636px;
+}
+.the-february-intake1 {
+  position: relative;
+  font-size: var(--font-size-lg);
+}
+.our-intakes-parent {
+  position: absolute;
+  top: 3109px;
+  left: 1028px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-17xl);
+}
+.certificate,
+.course-qualifications,
+.undergraduate {
+  position: absolute;
+  top: 2292px;
+  left: 159px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+}
+.certificate,
+.undergraduate {
+  top: 2440px;
+  left: 646px;
+  font-size: var(--font-size-xl);
+}
+.certificate {
+  top: 2728px;
+}
+.all-undergraduate-courses-container,
+.certificate-courses-are {
+  position: absolute;
+  top: 2484px;
+  left: 646px;
+  display: inline-block;
+  width: 466px;
+}
+.certificate-courses-are {
+  top: 2772px;
+}
+.diploma-courses-generally,
+.find-out-the,
+.find-out-the1 {
+  position: absolute;
+  top: 2484px;
+  left: 1222px;
+  display: inline-block;
+  width: 466px;
+}
+.find-out-the,
+.find-out-the1 {
+  top: 2552px;
+  left: 646px;
+  width: 463px;
+}
+.find-out-the1 {
+  top: 2840px;
+}
+.diploma,
+.the-fee-ranges {
+  position: absolute;
+  left: 1222px;
+}
+.the-fee-ranges {
+  top: 2571px;
+  display: inline-block;
+  width: 466px;
+}
+.diploma {
+  top: 2440px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.our-application-process1,
+.we-conduct-intakes1 {
+  position: absolute;
+  top: 3226px;
+  left: 1028px;
+  display: inline-block;
+  width: 537px;
+}
+.our-application-process1 {
+  top: 3504px;
+}
+.admissions-child6 {
+  position: absolute;
+  top: 3664px;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+  width: 1728px;
+  height: 774px;
+}
+.admissions-child7 {
+  position: absolute;
+  top: 3744px;
+  left: 110px;
+  background-color: var(--white);
+  width: 1509px;
+  height: 614px;
+}
+.days1,
+.div12 {
+  position: relative;
+  font-weight: 500;
+}
+.div12 {
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  color: var(--maroon);
+}
+.days-group,
+.frame-parent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.frame-parent7 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--desktop-link-small-size);
+  color: var(--color-darkslateblue-400);
+}
+.intake-closes-in-group,
+.view-courses-first1 {
+  position: absolute;
+  font-size: var(--font-size-lg);
+}
+.intake-closes-in-group {
+  top: 3331px;
+  left: 1028px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.view-courses-first1 {
+  top: 3584px;
+  left: 1245px;
+  font-weight: 600;
+  color: var(--color-gray-100);
+}
+.n-1-icon {
+  position: absolute;
+  top: 3028px;
+  left: 0;
+  width: 864px;
+  height: 636px;
+  object-fit: cover;
+}
+.admissions-child8,
+.admissions-child9 {
+  left: 645.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  width: 368px;
+  height: 1px;
+}
+.admissions-child8 {
+  position: absolute;
+  top: 2419.5px;
+  box-sizing: border-box;
+}
+.admissions-child9 {
+  top: 2707.5px;
+}
+.admissions-child10,
+.admissions-child9,
+.apply-now9 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.admissions-child10 {
+  top: 2419.5px;
+  left: 1221.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  width: 368px;
+  height: 1px;
+}
+.apply-now9 {
+  top: 3572px;
+  left: 1028px;
+  border-radius: var(--br-3xs);
+  background-color: var(--maroon);
+  width: 197px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--white);
+}
+.finances-quiz {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.group-child6 {
+  position: absolute;
+  top: 21px;
+  left: 1px;
+  background-color: var(--maroon);
+  width: 107px;
+  height: 3px;
+}
+.finances-quiz-parent {
+  position: relative;
+  width: 109px;
+  height: 24px;
+  color: var(--color-black);
+}
+.group-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.div16 {
+  position: absolute;
+  top: 0;
+  left: 1016px;
+  font-weight: 600;
+  color: var(--maroon);
+}
+.group-child7 {
+  position: absolute;
+  top: 39.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  width: 1049px;
+  height: 1px;
+}
+.can-i-apply-for-financial-aid-parent {
+  position: relative;
+  width: 1048px;
+  height: 40px;
+}
+.questions1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.frame-parent8,
+.questions-asked-about-our-admi-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 163px;
+  font-size: var(--desktop-link-small-size);
+  color: var(--color-gray-100);
+}
+.questions-asked-about-our-admi-parent {
+  position: absolute;
+  top: 3824px;
+  left: 179px;
+  flex-direction: column;
+  gap: 70px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.admissions7 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 5120px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

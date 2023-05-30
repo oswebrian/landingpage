@@ -1,0 +1,80 @@
+.quotes-icon {
+  position: relative;
+  width: 26.8px;
+  height: 20px;
+}
+.in-2017-the1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 496px;
+}
+.mask-group-icon12 {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.bishop-james-michael {
+  position: relative;
+  font-weight: 600;
+}
+.fgck-taita-taveta,
+.frame-child85 {
+  position: relative;
+}
+.frame-child85 {
+  border-radius: 50%;
+  background-color: var(--blue);
+  width: 5px;
+  height: 5px;
+}
+.fgck-taita-taveta-parent {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs);
+  font-size: var(--desktop-link-small-size);
+}
+.bishop-james-michael-parent,
+.fgck-taita-taveta-parent,
+.profile {
+  display: flex;
+  justify-content: flex-start;
+}
+.bishop-james-michael-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-3xs);
+}
+.profile {
+  flex-direction: row;
+  align-items: center;
+  font-size: var(--font-size-lg);
+}
+.in-2017-the-nairobi-pentecost-parent,
+.profile {
+  gap: var(--gap-xl);
+}
+.in-2017-the-nairobi-pentecost-parent,
+.quotes-parent,
+.testimony {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.quotes-parent {
+  gap: var(--gap-21xl);
+}
+.testimony {
+  position: absolute;
+  top: 6093px;
+  left: 596px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslateblue-300);
+  padding: var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

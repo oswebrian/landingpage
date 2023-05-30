@@ -1,0 +1,50 @@
+.about-us-dropdown-child {
+  position: absolute;
+  margin: 0 !important;
+  top: -11px;
+  left: 225px;
+  width: 15px;
+  height: 15px;
+  z-index: 0;
+}
+.our-history {
+  position: relative;
+}
+.news-and-articles-wrapper {
+  width: 189px;
+  display: flex;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mission-vision-and-core-value-wrapper,
+.news-and-articles-wrapper {
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.about-us-dropdown,
+.history-container,
+.mission-vision-and-core-value-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.history-container {
+  flex-direction: column;
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.about-us-dropdown {
+  position: relative;
+  background-color: var(--maroon);
+  width: 100%;
+  flex-direction: row;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: 14.67px;
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

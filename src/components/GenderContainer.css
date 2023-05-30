@@ -1,0 +1,51 @@
+.gender {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 500;
+}
+.vector-icon297 {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  display: none;
+}
+.gender-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-icon298 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.male {
+  position: relative;
+  line-height: 177.02%;
+}
+.frame-parent254,
+.frame-parent255,
+.vector-parent43 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent254,
+.frame-parent255 {
+  gap: var(--gap-xl);
+}
+.frame-parent254 {
+  position: absolute;
+  top: 118px;
+  left: 310px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-15xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

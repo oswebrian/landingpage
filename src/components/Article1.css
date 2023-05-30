@@ -1,0 +1,85 @@
+.frame-child75 {
+  position: relative;
+  width: 397px;
+  height: 189px;
+  object-fit: cover;
+}
+.dr-john-james {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+}
+.frame-child76 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--borders);
+  width: 5px;
+  height: 5px;
+}
+.dr-john-james-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.we-exist-to2,
+.what-a-degree {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 397px;
+}
+.what-a-degree {
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--blue);
+  text-align: left;
+}
+.we-exist-to2 {
+  font-size: var(--desktop-link-x-small-size);
+  line-height: 21px;
+  color: var(--color-black);
+  text-align: justify;
+}
+.frame-parent228,
+.rectangle-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.rectangle-group {
+  gap: var(--gap-4xs);
+}
+.button10 {
+  position: relative;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  font-weight: 600;
+}
+.button-primary10 {
+  border-radius: var(--br-5xs);
+  background-color: var(--blue);
+  width: 79px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--grayscale-background);
+}
+.article-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--desktop-link-small-size);
+  color: var(--borders);
+  font-family: var(--desktop-link-x-small);
+}

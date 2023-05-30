@@ -1,0 +1,131 @@
+.details-sections1 {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  color: var(--blue);
+}
+.details-sections-child {
+  position: absolute;
+  top: 51.5px;
+  left: -0.5px;
+  border-right: 1px solid var(--borders);
+  box-sizing: border-box;
+  width: 1px;
+  height: 334px;
+}
+.vector-icon310 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.vector-parent45,
+.vector-parent46,
+.vector-parent47 {
+  position: absolute;
+  left: 20px;
+  width: 354px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.vector-parent45 {
+  top: 52px;
+  color: var(--blue);
+}
+.vector-parent46,
+.vector-parent47 {
+  top: 100px;
+}
+.vector-parent47 {
+  top: 148px;
+}
+.education-background {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 500;
+}
+.vector-parent48,
+.vector-parent49,
+.vector-parent50,
+.vector-parent51 {
+  position: absolute;
+  top: 196px;
+  left: 20px;
+  width: 354px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.vector-parent49,
+.vector-parent50,
+.vector-parent51 {
+  top: 244px;
+}
+.vector-parent50,
+.vector-parent51 {
+  top: 292px;
+}
+.vector-parent51 {
+  top: 340px;
+}
+.details-sections-inner,
+.details-sections-item {
+  position: absolute;
+  top: 89.5px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 355px;
+  height: 1px;
+}
+.details-sections-inner {
+  top: 137.5px;
+}
+.details-sections-child1,
+.details-sections-child2,
+.details-sections-child3,
+.details-sections-child4,
+.details-sections-child5 {
+  position: absolute;
+  top: 185.5px;
+  left: 19.5px;
+  border-top: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 355px;
+  height: 1px;
+}
+.details-sections-child2,
+.details-sections-child3,
+.details-sections-child4,
+.details-sections-child5 {
+  top: 233.5px;
+}
+.details-sections-child3,
+.details-sections-child4,
+.details-sections-child5 {
+  top: 281.5px;
+}
+.details-sections-child4,
+.details-sections-child5 {
+  top: 329.5px;
+}
+.details-sections-child5 {
+  top: 377.5px;
+}
+.details-sections {
+  position: absolute;
+  top: 294px;
+  left: 101px;
+  width: 374px;
+  height: 385px;
+  text-align: left;
+  font-size: var(--desktop-link-small-size);
+  color: var(--borders);
+  font-family: var(--desktop-link-x-small);
+}

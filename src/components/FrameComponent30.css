@@ -1,0 +1,91 @@
+.account-name,
+.account-number,
+.bank,
+.branch {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 146.94px;
+}
+.account-number,
+.bank,
+.branch {
+  left: 268.5px;
+  width: 50.71px;
+}
+.account-number,
+.branch {
+  left: 643.8px;
+  width: 168.68px;
+}
+.branch {
+  left: 1002.63px;
+  width: 67.87px;
+}
+.account-name-parent {
+  position: relative;
+  width: 1070.5px;
+  height: 24px;
+}
+.group-wrapper {
+  background-color: var(--color-gray-500);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-lgi);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.npbc16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 142px;
+}
+.div52,
+.kenya-commercial-bank,
+.nairobi {
+  position: absolute;
+  top: 0;
+  left: 269px;
+}
+.div52,
+.nairobi {
+  left: 645px;
+}
+.nairobi {
+  left: 1006px;
+}
+.frame-child77,
+.npbc-parent {
+  position: relative;
+  width: 1074px;
+  height: 24px;
+}
+.frame-child77 {
+  border-top: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 1113px;
+  height: 1px;
+}
+.frame-parent230,
+.group-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent230 {
+  position: absolute;
+  top: 3927px;
+  left: 576px;
+  border: 1px solid var(--color-gainsboro-200);
+  align-items: flex-end;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

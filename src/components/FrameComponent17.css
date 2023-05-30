@@ -1,0 +1,111 @@
+.latest-news,
+.show-all1 {
+  position: relative;
+  font-weight: 500;
+}
+.show-all1 {
+  font-size: var(--desktop-link-small-size);
+  color: var(--color-gray-700);
+}
+.latest-news-parent {
+  background-color: var(--blue);
+  border-bottom: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 536px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-3xs);
+  align-items: center;
+  justify-content: space-between;
+}
+.mask-group-icon3 {
+  position: relative;
+  width: 248px;
+  height: 116px;
+  object-fit: cover;
+}
+.student-portals-have {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 258px;
+}
+.dean-of-students {
+  position: relative;
+  font-weight: 600;
+}
+.from-to-date-child {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--borders);
+  width: 5px;
+  height: 5px;
+  display: none;
+}
+.to-students {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  display: none;
+}
+.from-to-date-item {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--borders);
+  width: 5px;
+  height: 5px;
+}
+.from-to-date {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--borders);
+}
+.mask-group-parent,
+.student-portals-have-been-acti-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.mask-group-parent {
+  flex-direction: row;
+}
+.frame-child71 {
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 517px;
+  height: 1px;
+}
+.frame-parent218,
+.frame-parent219 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent219 {
+  background-color: var(--color-darkslateblue-300);
+  overflow: hidden;
+  padding: var(--padding-3xs);
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-lg);
+  color: var(--blue);
+}
+.frame-parent218 {
+  position: absolute;
+  top: 947px;
+  left: 1152px;
+  text-align: justify;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

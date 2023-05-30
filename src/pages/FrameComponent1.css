@@ -1,0 +1,148 @@
+.frame-child20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1550px;
+  height: 864px;
+  display: none;
+}
+.welcome1 {
+  position: relative;
+}
+.frame-parent39,
+.welcome-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welcome-container {
+  padding: var(--padding-3xs);
+}
+.frame-parent39 {
+  position: absolute;
+  top: 40px;
+  left: 154px;
+  gap: var(--gap-70xl);
+}
+.frame-child21,
+.frame-child22 {
+  position: absolute;
+  top: 93.5px;
+  left: -2.5px;
+  border-top: 5px solid var(--color-brown-100);
+  box-sizing: border-box;
+  width: 1562px;
+  height: 5px;
+}
+.frame-child22 {
+  border-top: 5px solid var(--maroon);
+  width: 1555px;
+}
+.icround-log-in-icon6 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.apply-now11 {
+  top: 10px;
+  left: 1270px;
+  border-radius: var(--br-3xs);
+  background-color: var(--maroon);
+  width: 197px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.apply-now11,
+.apply-now12,
+.buttons-child {
+  position: absolute;
+  box-sizing: border-box;
+}
+.apply-now12 {
+  top: 10px;
+  left: 1053px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-brown-100);
+  width: 197px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  color: var(--maroon);
+}
+.buttons-child {
+  top: -0.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  width: 1471px;
+  height: 1px;
+}
+.need-help2 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  color: var(--borders);
+}
+.buttons {
+  position: absolute;
+  top: 748px;
+  left: 40px;
+  width: 1470px;
+  height: 56px;
+  color: var(--white);
+}
+.thank-you-for {
+  margin: 0;
+}
+.thank-you-for-container {
+  position: absolute;
+  top: 332px;
+  left: 445px;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  white-space: pre-wrap;
+  text-align: center;
+}
+.vector-icon32 {
+  position: absolute;
+  top: 420px;
+  left: 482px;
+  width: 20px;
+  height: 20px;
+}
+.i-declare-that-container {
+  position: absolute;
+  top: 412px;
+  left: 530px;
+  font-size: var(--desktop-link-small-size);
+  line-height: 177.02%;
+  font-weight: 500;
+}
+.rectangle-root {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 864px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

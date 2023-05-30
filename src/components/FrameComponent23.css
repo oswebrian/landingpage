@@ -1,0 +1,142 @@
+.table-title {
+  border-radius: var(--br-8xs) var(--br-8xs) 0 0;
+  border: 1px solid var(--borders);
+  box-sizing: border-box;
+  width: 1092px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) var(--padding-8xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item {
+  position: relative;
+  font-weight: 600;
+}
+.item-wrapper {
+  width: 273px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.description-wrapper,
+.item-wrapper,
+.size-wrapper {
+  background-color: var(--color-darkslateblue-200);
+  padding: var(--padding-base) var(--padding-8xs);
+  box-sizing: border-box;
+}
+.description-wrapper {
+  width: 346px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.size-wrapper {
+  width: 200px;
+}
+.actions-wrapper,
+.size-wrapper,
+.table-head {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.actions-wrapper {
+  background-color: var(--color-darkslateblue-200);
+  width: 273px;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+}
+.table-head {
+  font-size: var(--font-size-xl);
+}
+.all-programs-pamphlet {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.all-programs-pamphlet-wrapper,
+.this-contains-all-information-wrapper {
+  width: 273px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.this-contains-all-information-wrapper {
+  width: 346px;
+}
+.mbs {
+  position: relative;
+  font-weight: 500;
+}
+.mbs-wrapper {
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+}
+.vector-icon275 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.open-in-browser-parent {
+  width: 273px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--borders);
+}
+.downloads-item-row,
+.mbs-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.downloads-item-row {
+  border-right: 1px solid var(--borders);
+  border-bottom: 1px solid var(--borders);
+  border-left: 1px solid var(--borders);
+  padding: var(--padding-8xs) 0;
+  align-items: flex-start;
+}
+.mbs-container {
+  width: 200px;
+  padding: var(--padding-3xs) var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: center;
+}
+.psychology {
+  margin: 0;
+}
+.table-content1,
+.table-title-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-lg);
+}
+.table-title-parent {
+  position: absolute;
+  top: 768px;
+  left: 596px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

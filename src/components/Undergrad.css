@@ -1,0 +1,113 @@
+.undergraduate-programs3 {
+  position: relative;
+  font-weight: 500;
+}
+.pamphlet-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 180px;
+  height: 154.71px;
+  object-fit: cover;
+}
+.course-thumbnail {
+  position: relative;
+  width: 180px;
+  height: 154.71px;
+}
+.admission-into-a,
+.bachelor-of-art1 {
+  position: relative;
+  display: inline-block;
+}
+.bachelor-of-art1 {
+  font-weight: 500;
+  width: 263px;
+}
+.admission-into-a {
+  font-size: var(--desktop-link-x-small-size);
+  text-align: justify;
+  width: 294px;
+}
+.cpurse-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.course-details2 {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 500;
+}
+.vector-icon270 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.enrol {
+  border-radius: var(--br-9xs);
+  background-color: var(--maroon);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.course-actions,
+.course-details1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.course-actions {
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--white);
+}
+.course-details1 {
+  flex-direction: column;
+  justify-content: space-between;
+}
+.course2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.course-card,
+.undergrad,
+.undergrad-courses1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.course-card {
+  background-color: var(--white);
+  flex-direction: column;
+  padding: var(--padding-xl) var(--padding-3xs);
+}
+.undergrad,
+.undergrad-courses1 {
+  flex-direction: row;
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-lg);
+  color: var(--blue);
+}
+.undergrad {
+  position: absolute;
+  top: 1856px;
+  left: 40px;
+  border: 1px solid var(--color-gray-500);
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-5xl);
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

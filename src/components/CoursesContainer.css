@@ -1,0 +1,62 @@
+.frame-child92 {
+  position: relative;
+  width: 166px;
+  height: 124px;
+  object-fit: cover;
+}
+.diploma-in-bible7 {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 600;
+}
+.study-mode {
+  font-weight: 500;
+}
+.regularvirtual,
+.study-mode {
+  position: relative;
+  line-height: 177.02%;
+}
+.start-date-parent,
+.study-mode-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.start-date-parent {
+  gap: var(--gap-2xl);
+}
+.diploma-in-bible-and-theology-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-3xs);
+}
+.diploma-in-bible-and-theology-parent,
+.frame-wrapper3,
+.rectangle-parent9 {
+  display: flex;
+  justify-content: flex-start;
+}
+.rectangle-parent9 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xl);
+}
+.frame-wrapper3 {
+  position: absolute;
+  top: 392px;
+  left: 556px;
+  background-color: var(--white);
+  border: 1px solid var(--maroon);
+  box-sizing: border-box;
+  width: 457px;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs);
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

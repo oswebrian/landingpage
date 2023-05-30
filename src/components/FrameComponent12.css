@@ -1,0 +1,46 @@
+.course-statistics,
+.div48 {
+  position: relative;
+  font-weight: 600;
+}
+.div48 {
+  font-weight: 500;
+}
+.parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.course-graduates {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.course-statistics-parent,
+.frame-parent229 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-84xl);
+  font-size: var(--font-size-17xl);
+  color: var(--blue);
+}
+.course-statistics-parent {
+  position: absolute;
+  top: 715px;
+  left: 356px;
+  background-color: var(--color-gray-600);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(20px);
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-31xl);
+  align-items: center;
+  gap: var(--gap-21xl);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

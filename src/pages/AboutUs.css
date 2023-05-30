@@ -1,0 +1,399 @@
+.about-us-child,
+.about-us-item {
+  position: absolute;
+  top: 831px;
+  left: 0;
+  background-color: var(--blue);
+  width: 1728px;
+  height: 1279px;
+}
+.about-us-item {
+  top: 3234px;
+  height: 784px;
+}
+.about-us-child1,
+.about-us-child2,
+.about-us-inner {
+  position: absolute;
+  top: 4018px;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1728px;
+  height: 796px;
+}
+.about-us-child1,
+.about-us-child2 {
+  top: 4814px;
+  height: 710px;
+}
+.about-us-child2 {
+  top: 2672px;
+  background-color: var(--maroon);
+  height: 562px;
+}
+.history3,
+.mission-vision {
+  position: absolute;
+  top: 936px;
+  left: 596px;
+}
+.mission-vision {
+  top: 2150px;
+  color: var(--blue);
+}
+.philosophy-core {
+  position: absolute;
+  top: 2712px;
+  left: 596px;
+}
+.our-9-strategic,
+.our-leadership {
+  position: absolute;
+  top: 3274px;
+  left: 596px;
+}
+.our-leadership {
+  top: 4058px;
+  color: var(--blue);
+}
+.our-milestones,
+.we-desire-to {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+}
+.we-desire-to {
+  top: 1010px;
+  left: 596px;
+  display: inline-block;
+  width: 1092px;
+}
+.our-milestones {
+  top: 1461px;
+  left: 1054px;
+  font-weight: 600;
+}
+.frame-child19 {
+  position: relative;
+  border-top: 4px solid var(--maroon);
+  box-sizing: border-box;
+  width: 232px;
+  height: 4px;
+}
+.history-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  color: var(--white);
+}
+.accreditition {
+  position: relative;
+}
+.frame-parent34 {
+  position: absolute;
+  top: 925px;
+  left: 88px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  color: var(--color-gray-800);
+}
+.div31,
+.our-statistics {
+  position: relative;
+  font-weight: 600;
+}
+.div31 {
+  font-weight: 500;
+}
+.graduated-students {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.frame-parent35,
+.our-statistics-parent,
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.frame-parent35,
+.our-statistics-parent {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-84xl);
+  font-size: var(--font-size-17xl);
+}
+.our-statistics-parent {
+  position: absolute;
+  top: 1168px;
+  left: 596px;
+  background-color: var(--color-gray-500);
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-31xl);
+  align-items: center;
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-5xl);
+}
+.vector-icon28 {
+  position: relative;
+  width: 87.57px;
+  height: 90px;
+}
+.we-exist-to {
+  position: relative;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 487px;
+}
+.frame-parent36,
+.vector-parent11 {
+  position: absolute;
+  left: 596px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.vector-parent11 {
+  top: 2316px;
+  align-items: center;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-xl);
+  color: var(--blue);
+}
+.frame-parent36 {
+  top: 3408px;
+  align-items: flex-start;
+  gap: var(--gap-21xl);
+}
+.vector-icon29 {
+  position: relative;
+  width: 72px;
+  height: 80px;
+}
+.excellence-relevance-compete {
+  position: relative;
+  display: inline-block;
+  width: 487px;
+}
+.excellence-relevance-compete-parent,
+.vector-parent12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.excellence-relevance-compete-parent {
+  align-items: flex-start;
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--desktop-link-x-small-size);
+}
+.vector-parent12 {
+  position: absolute;
+  top: 2887px;
+  left: 1203px;
+  align-items: center;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-xl);
+}
+.vector-icon30 {
+  position: relative;
+  width: 34.41px;
+  height: 90px;
+}
+.nurturing-potential-building1 {
+  position: relative;
+  font-size: var(--desktop-link-x-small-size);
+  text-align: center;
+  display: inline-block;
+  width: 487px;
+}
+.vector-parent13 {
+  position: absolute;
+  top: 2876px;
+  left: 598px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-xl);
+}
+.vector-icon31 {
+  position: relative;
+  width: 89.71px;
+  height: 95px;
+}
+.vector-parent14 {
+  position: absolute;
+  top: 2316px;
+  left: 1201px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-xl);
+  color: var(--blue);
+}
+.location13 {
+  font-weight: 600;
+  font-family: var(--desktop-link-x-small);
+}
+.location12 {
+  margin: 0;
+}
+.garden-estate-off9 {
+  font-family: var(--desktop-link-x-small);
+}
+.adminnpbccoke21 {
+  text-decoration: underline;
+}
+.adminnpbccoke20 {
+  color: inherit;
+}
+.location-garden-estate-container6 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  line-height: 177.02%;
+}
+.news-and-events12 {
+  margin: 0;
+  color: inherit;
+}
+.npbc-online-reflection-container6 {
+  position: absolute;
+  top: 62px;
+  left: 1146px;
+  line-height: 177.02%;
+}
+.admissions-student-life-container6,
+.history-mission-container6 {
+  position: absolute;
+  top: 62px;
+  left: 806px;
+  line-height: 177.02%;
+}
+.history-mission-container6 {
+  left: 466px;
+}
+.explore6,
+.npbc13,
+.quick-links6,
+.research6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  color: var(--white);
+}
+.explore6,
+.quick-links6,
+.research6 {
+  left: 806px;
+}
+.explore6,
+.research6 {
+  left: 1146px;
+}
+.explore6 {
+  left: 466px;
+}
+.location-garden-estate-off-th-parent4 {
+  position: relative;
+  width: 1309px;
+  height: 262px;
+}
+.footer13,
+.g5a0631-1-scaled-1-icon7 {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.footer13 {
+  top: 262px;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-60xl) var(--padding-190xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.g5a0631-1-scaled-1-icon7 {
+  top: 0;
+  height: 262px;
+  object-fit: cover;
+}
+.become-a-student-container7,
+.button7 {
+  position: relative;
+  line-height: 59.6px;
+}
+.button7 {
+  line-height: 28px;
+  font-weight: 600;
+}
+.button-primary7 {
+  border-radius: var(--br-xs);
+  background-color: var(--white);
+  width: 317px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+}
+.become-a-student-at-npbc-parent4 {
+  position: absolute;
+  top: 26px;
+  left: 625px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.g5a0631-1-scaled-1-parent4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 262px;
+  text-align: center;
+  font-size: 46.52px;
+  color: var(--white);
+}
+.footer12 {
+  position: absolute;
+  top: 5857px;
+  left: 0;
+  width: 1728px;
+  height: 682px;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--font-inherit);
+}
+.about-us {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 6539px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

@@ -1,0 +1,282 @@
+.nairobi-pentecostal-bible-coll-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 651px;
+  object-fit: cover;
+}
+.carousel-text-child,
+.carousel-text-item {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 614px;
+  height: 110px;
+}
+.carousel-text-item {
+  top: 0;
+  background-color: var(--maroon);
+  width: 195px;
+  height: 43px;
+}
+.our-philosophy {
+  position: absolute;
+  top: 12px;
+  left: 42px;
+}
+.nurturing-potential-building {
+  position: absolute;
+  top: 79px;
+  left: 42px;
+  font-size: 29.33px;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.carousel-text {
+  position: absolute;
+  top: 270px;
+  left: 40px;
+  width: 1098px;
+  height: 153px;
+  display: none;
+}
+.nairobi-pentecostal-bible-coll-parent,
+.news-and-articles-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 651px;
+}
+.news-and-articles-inner {
+  top: 180px;
+  overflow: hidden;
+  font-size: 14.67px;
+  color: var(--white);
+}
+.news-and-articles-child,
+.news-and-articles-item {
+  position: absolute;
+  top: 831px;
+  left: 0;
+  background-color: var(--color-darkslateblue-300);
+  width: 1728px;
+  height: 1176px;
+}
+.news-and-articles-item {
+  top: 2047px;
+  background-color: var(--color-darkslateblue-200);
+  height: 988px;
+}
+.heres-the-latest,
+.we-publish-all {
+  position: absolute;
+  top: 911px;
+  left: 40px;
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+  width: 487px;
+}
+.we-publish-all {
+  left: 576px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-400);
+  width: 1112px;
+}
+.news-and-articles-child1 {
+  position: absolute;
+  top: 3034px;
+  left: 0;
+  background-color: var(--white);
+  width: 1728px;
+  height: 645px;
+}
+.articles-blogs {
+  position: relative;
+  font-weight: 600;
+}
+.news-section-child {
+  position: relative;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1286px;
+  height: 1px;
+}
+.more {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--borders);
+}
+.article-1-parent,
+.news-section {
+  position: absolute;
+  top: 3114px;
+  left: 41px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.article-1-parent {
+  top: 3198px;
+  left: 40px;
+  align-items: flex-start;
+}
+.location3 {
+  font-weight: 600;
+  font-family: var(--desktop-link-x-small);
+}
+.location2 {
+  margin: 0;
+}
+.garden-estate-off1 {
+  font-family: var(--desktop-link-x-small);
+}
+.adminnpbccoke5 {
+  text-decoration: underline;
+}
+.adminnpbccoke4 {
+  color: inherit;
+}
+.location-garden-estate-container1 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  line-height: 177.02%;
+}
+.news-and-events2 {
+  margin: 0;
+  color: inherit;
+}
+.npbc-online-reflection-container1 {
+  position: absolute;
+  top: 62px;
+  left: 1146px;
+  line-height: 177.02%;
+}
+.admissions-student-life-container1,
+.history-mission-container1 {
+  position: absolute;
+  top: 62px;
+  left: 806px;
+  line-height: 177.02%;
+}
+.history-mission-container1 {
+  left: 466px;
+}
+.explore1,
+.npbc2,
+.quick-links1,
+.research1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  color: var(--white);
+}
+.explore1,
+.quick-links1,
+.research1 {
+  left: 806px;
+}
+.explore1,
+.research1 {
+  left: 1146px;
+}
+.explore1 {
+  left: 466px;
+}
+.location-garden-estate-off-th-group {
+  position: relative;
+  width: 1309px;
+  height: 262px;
+}
+.footer3,
+.g5a0631-1-scaled-1-icon1 {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.footer3 {
+  top: 262px;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-60xl) var(--padding-190xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.g5a0631-1-scaled-1-icon1 {
+  top: 0;
+  height: 262px;
+  object-fit: cover;
+}
+.become-a-student-container1,
+.button1 {
+  position: relative;
+  line-height: 59.6px;
+}
+.button1 {
+  line-height: 28px;
+  font-weight: 600;
+}
+.button-primary1 {
+  border-radius: var(--br-xs);
+  background-color: var(--white);
+  width: 317px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+}
+.become-a-student-at-npbc-group {
+  position: absolute;
+  top: 26px;
+  left: 625px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.footer2,
+.g5a0631-1-scaled-1-group {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.g5a0631-1-scaled-1-group {
+  top: 0;
+  height: 262px;
+  text-align: center;
+  font-size: 46.52px;
+  color: var(--white);
+}
+.footer2 {
+  top: 3679px;
+  height: 682px;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--font-inherit);
+}
+.news-and-articles1 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 4361px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

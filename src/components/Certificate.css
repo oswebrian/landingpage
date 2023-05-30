@@ -1,0 +1,116 @@
+.certificate-programs1 {
+  position: relative;
+  font-weight: 500;
+}
+.pamphlet-1-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 180px;
+  height: 154.71px;
+  object-fit: cover;
+}
+.course-thumbnail4 {
+  position: relative;
+  width: 180px;
+  height: 154.71px;
+}
+.admission-into-a4,
+.bachelor-of-art5 {
+  position: relative;
+  display: inline-block;
+}
+.bachelor-of-art5 {
+  font-weight: 500;
+  width: 263px;
+}
+.admission-into-a4 {
+  font-size: var(--desktop-link-x-small-size);
+  text-align: justify;
+  width: 294px;
+}
+.cpurse-info4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.course-details12 {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 500;
+}
+.vector-icon274 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.course-details11 {
+  border-radius: var(--br-9xs);
+  background-color: var(--maroon);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.course-actions4,
+.course-details10 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.course-actions4 {
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--white);
+}
+.course-details10 {
+  flex-direction: column;
+  justify-content: space-between;
+}
+.course-card4,
+.course6 {
+  display: flex;
+  justify-content: flex-start;
+}
+.course6 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xl);
+}
+.course-card4 {
+  background-color: var(--white);
+  flex-direction: column;
+  padding: var(--padding-xl) var(--padding-3xs);
+  align-items: flex-start;
+}
+.certificate-courses {
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-lg);
+  color: var(--blue);
+}
+.certificate-courses,
+.certificate-courses1,
+.certificate2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.certificate2 {
+  position: absolute;
+  top: 2554px;
+  left: 40px;
+  border: 1px solid var(--color-gray-500);
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-5xl);
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

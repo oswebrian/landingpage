@@ -1,0 +1,147 @@
+.component-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--white);
+}
+.asset-2npbc-logo-1,
+.npbc2-1-1-icon,
+.screenshot-2023-02-28-at-2221-icon1 {
+  position: absolute;
+  height: 65.79%;
+  top: 16.67%;
+  bottom: 17.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.npbc2-1-1-icon {
+  width: 4.63%;
+  right: 92.48%;
+  left: 2.89%;
+  display: none;
+}
+.asset-2npbc-logo-1,
+.screenshot-2023-02-28-at-2221-icon1 {
+  width: 4.41%;
+  right: 92.46%;
+  left: 3.13%;
+}
+.screenshot-2023-02-28-at-2221-icon1 {
+  height: 70.18%;
+  width: 4.82%;
+  top: 14.91%;
+  right: 92.4%;
+  bottom: 14.91%;
+  left: 2.78%;
+  display: none;
+}
+.nairobi-pentecostal-bible2 {
+  position: absolute;
+  top: 35.96%;
+  left: 8.56%;
+}
+.material-symbolscall-outline-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div47 {
+  position: relative;
+  line-height: 28px;
+}
+.material-symbolscall-outline-parent {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-brown-100);
+  width: 199px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  text-align: center;
+}
+.biperson-icon {
+  width: 19px;
+  height: 19px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.access-portals,
+.biperson-icon {
+  position: relative;
+}
+.biperson-parent {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-brown-100);
+  width: 197px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.icround-log-in-icon22 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.apply-now34,
+.frame-parent217 {
+  display: flex;
+  flex-direction: row;
+}
+.apply-now34 {
+  border-radius: var(--br-3xs);
+  background-color: var(--maroon);
+  width: 197px;
+  height: 46px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+  color: var(--white);
+}
+.frame-parent217 {
+  position: absolute;
+  height: 40.35%;
+  width: 35.82%;
+  top: 29.82%;
+  right: 2.31%;
+  bottom: 29.82%;
+  left: 61.86%;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--maroon);
+}
+.component-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 114px;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

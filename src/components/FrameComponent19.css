@@ -1,0 +1,55 @@
+.student-life-carousel-image-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 651px;
+  object-fit: cover;
+}
+.carousel-text-child4,
+.carousel-text-child5 {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 614px;
+  height: 110px;
+}
+.carousel-text-child5 {
+  top: 0;
+  background-color: var(--maroon);
+  width: 195px;
+  height: 43px;
+}
+.our-philosophy3 {
+  position: absolute;
+  top: 12px;
+  left: 42px;
+}
+.nurturing-potential-building3 {
+  position: absolute;
+  top: 79px;
+  left: 42px;
+  font-size: 29.33px;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.carousel-text3 {
+  position: absolute;
+  top: 267px;
+  left: 40px;
+  width: 1098px;
+  height: 153px;
+  display: none;
+}
+.student-life-carousel-image-1-parent {
+  position: absolute;
+  top: 180px;
+  left: 0;
+  width: 1728px;
+  height: 651px;
+  text-align: left;
+  font-size: 14.67px;
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

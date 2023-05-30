@@ -1,0 +1,43 @@
+.carousel-text-child2,
+.carousel-text-child3 {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 618px;
+  height: 162px;
+}
+.carousel-text-child3 {
+  top: 0;
+  background-color: var(--maroon);
+  width: 195px;
+  height: 43px;
+}
+.our-assurance1 {
+  position: absolute;
+  top: 12px;
+  left: 42px;
+}
+.your-search-for {
+  margin: 0;
+}
+.your-search-for-container {
+  position: absolute;
+  top: 79px;
+  left: 42px;
+  font-size: 29.33px;
+  font-weight: 600;
+  color: var(--color-black);
+  white-space: pre-wrap;
+}
+.carousel-text2 {
+  position: absolute;
+  top: 425px;
+  left: 38px;
+  width: 618px;
+  height: 205px;
+  text-align: left;
+  font-size: 14.67px;
+  color: var(--white);
+  font-family: var(--desktop-link-x-small);
+}

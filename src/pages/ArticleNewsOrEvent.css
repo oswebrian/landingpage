@@ -1,0 +1,484 @@
+.mask-group-icon {
+  position: absolute;
+  top: 180px;
+  left: 0;
+  width: 1728px;
+  height: 651px;
+  object-fit: cover;
+}
+.article-news-or-event-child,
+.article-news-or-event-item {
+  position: absolute;
+  top: 871px;
+  left: 40px;
+  background-color: var(--color-darkslateblue-300);
+  width: 1092px;
+  height: 817px;
+}
+.article-news-or-event-item {
+  left: 1152px;
+  border-bottom: 1px solid var(--borders);
+  box-sizing: border-box;
+  width: 536px;
+  height: 56px;
+}
+.the-nairobi-pentecostal {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+}
+.the-nairobi-pentecostal-bible-wrapper {
+  position: absolute;
+  top: 891px;
+  left: 40px;
+  width: 1092px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.author-dean-of {
+  position: relative;
+  font-weight: 500;
+}
+.author-dean-of-students-wrapper {
+  width: 1092px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child3 {
+  position: relative;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1073px;
+  height: 1px;
+}
+.vector-icon {
+  position: relative;
+  width: 18px;
+  height: 19.92px;
+}
+.vector-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.date-published-24-march-2023-parent {
+  width: 1092px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frame-group,
+.line-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.line-parent {
+  align-items: center;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-lg);
+  color: var(--borders);
+}
+.frame-group {
+  position: absolute;
+  top: 1019px;
+  left: 40px;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-5xl);
+}
+.i-am-pleased {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  width: 1072px;
+}
+.the-accreditation-process {
+  margin: 0;
+}
+.i-am-pleased-to-announce-that-parent {
+  position: absolute;
+  top: 1160px;
+  left: 40px;
+  width: 1091px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-xl) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-lg);
+}
+.vector-icon1 {
+  width: 18.71px;
+  height: 18.71px;
+}
+.search,
+.vector-icon1 {
+  position: relative;
+}
+.vector-group {
+  position: absolute;
+  top: 894px;
+  left: 1162px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.campus-events {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.vector-icon2 {
+  position: relative;
+  width: 10px;
+  height: 5px;
+}
+.upcoming-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  color: var(--color-gainsboro-100);
+}
+.show-all {
+  position: relative;
+  font-weight: 500;
+  color: var(--color-gray-700);
+}
+.campus-events-parent {
+  background-color: var(--blue);
+  border-bottom: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 536px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-3xs);
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-container,
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div {
+  background-color: var(--color-darkslateblue-300);
+  overflow: hidden;
+  padding: var(--padding-3xs);
+  gap: var(--gap-3xs);
+}
+.frame-container {
+  position: absolute;
+  top: 1431px;
+  left: 1152px;
+  font-size: var(--desktop-link-small-size);
+  color: var(--white);
+}
+.our-intake-is {
+  position: relative;
+  font-weight: 600;
+}
+.the-february-intake {
+  position: relative;
+  font-size: var(--font-size-lg);
+}
+.our-intake-is-ongoing-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.we-conduct-intakes {
+  position: relative;
+  font-size: var(--desktop-link-small-size);
+  display: inline-block;
+  width: 537px;
+}
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.div {
+  position: relative;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  color: var(--maroon);
+}
+.days-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.frame-parent4,
+.intake-closes-in-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  flex-direction: row;
+  gap: var(--gap-21xl);
+  font-size: var(--desktop-link-small-size);
+  color: var(--color-darkslateblue-400);
+}
+.intake-closes-in-parent {
+  flex-direction: column;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-lg);
+}
+.our-application-process {
+  position: relative;
+  display: inline-block;
+  width: 537px;
+}
+.icround-log-in-icon2 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.apply-now2 {
+  border-radius: var(--br-3xs);
+  background-color: var(--maroon);
+  width: 197px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+}
+.view-courses-first {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-gray-800);
+}
+.apply-now-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--desktop-link-x-small-size);
+}
+.frame-parent2,
+.our-application-process-is-cle-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.our-application-process-is-cle-parent {
+  gap: var(--gap-11xl);
+  font-size: var(--desktop-link-small-size);
+}
+.frame-parent2 {
+  gap: var(--gap-50xl);
+}
+.mask-group-icon1 {
+  position: relative;
+  width: 514.6px;
+  height: 459.22px;
+  object-fit: cover;
+}
+.article-news-or-event-inner {
+  position: absolute;
+  top: 1728px;
+  left: 40px;
+  background-color: var(--blue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  color: var(--white);
+}
+.location1 {
+  font-weight: 600;
+}
+.garden-estate-off,
+.location1 {
+  font-family: var(--desktop-link-x-small);
+}
+.adminnpbccoke2 {
+  text-decoration: underline;
+}
+.adminnpbccoke1 {
+  color: inherit;
+}
+.location-garden-estate-container {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  line-height: 177.02%;
+}
+.news-and-events {
+  margin: 0;
+  color: inherit;
+}
+.npbc-online-reflection-container {
+  position: absolute;
+  top: 62px;
+  left: 1146px;
+  line-height: 177.02%;
+}
+.admissions-student-life-container,
+.history-mission-container {
+  position: absolute;
+  top: 62px;
+  left: 806px;
+  line-height: 177.02%;
+}
+.history-mission-container {
+  left: 466px;
+}
+.explore,
+.npbc,
+.quick-links,
+.research {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  color: var(--white);
+}
+.explore,
+.quick-links,
+.research {
+  left: 806px;
+}
+.explore,
+.research {
+  left: 1146px;
+}
+.explore {
+  left: 466px;
+}
+.location-garden-estate-off-th-parent {
+  position: relative;
+  width: 1309px;
+  height: 262px;
+}
+.footer1,
+.g5a0631-1-scaled-1-icon {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.footer1 {
+  top: 262px;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-60xl) var(--padding-190xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.g5a0631-1-scaled-1-icon {
+  top: 0;
+  height: 262px;
+  object-fit: cover;
+}
+.become-a-student-container,
+.button {
+  position: relative;
+  line-height: 59.6px;
+}
+.button {
+  line-height: 28px;
+  font-weight: 600;
+}
+.button-primary {
+  border-radius: var(--br-xs);
+  background-color: var(--white);
+  width: 317px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+}
+.become-a-student-at-npbc-parent {
+  position: absolute;
+  top: 26px;
+  left: 625px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.footer,
+.g5a0631-1-scaled-1-parent {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.g5a0631-1-scaled-1-parent {
+  top: 0;
+  height: 262px;
+  text-align: center;
+  font-size: 46.52px;
+  color: var(--white);
+}
+.footer {
+  top: 2429px;
+  height: 682px;
+  text-align: left;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--font-inherit);
+}
+.article-news-or-event {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 3111px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-17xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

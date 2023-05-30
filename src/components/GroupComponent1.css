@@ -1,0 +1,50 @@
+.april-15th-1980,
+.chartering {
+  position: relative;
+  font-weight: 600;
+}
+.chartering {
+  font-size: var(--font-size-xl);
+  color: var(--white);
+}
+.april-15th-1980-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.we-exist-to3 {
+  position: relative;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--white);
+  text-align: right;
+  display: inline-block;
+  width: 435px;
+}
+.frame-parent248 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.union-icon8 {
+  position: absolute;
+  top: 29px;
+  left: 455px;
+  width: 24px;
+  height: 5px;
+}
+.frame-parent247 {
+  position: relative;
+  width: 479px;
+  height: 85px;
+  text-align: left;
+  font-size: var(--desktop-link-small-size);
+  color: var(--borders);
+  font-family: var(--desktop-link-x-small);
+}

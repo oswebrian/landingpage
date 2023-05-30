@@ -1,0 +1,120 @@
+.group-child25,
+.pamphlet-1-icon6 {
+  position: absolute;
+  top: 0;
+  height: 124px;
+  object-fit: cover;
+}
+.group-child25 {
+  left: -11px;
+  width: 166px;
+  display: none;
+}
+.pamphlet-1-icon6 {
+  left: 0;
+  width: 144.27px;
+}
+.rectangle-parent7 {
+  position: relative;
+  width: 144.27px;
+  height: 124px;
+}
+.academic-calendar1 {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 600;
+}
+.this-contains-all16 {
+  position: relative;
+  line-height: 177.02%;
+  display: inline-block;
+  width: 372px;
+  flex-shrink: 0;
+}
+.this-contains-all-information-wrapper14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--desktop-link-x-small-size);
+}
+.academic-calendar-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.select-copy1,
+.vector-icon291 {
+  position: relative;
+}
+.vector-icon291 {
+  width: 10px;
+  height: 5px;
+}
+.select-copy {
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-8xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.open-in-browser16 {
+  position: relative;
+  color: var(--color-gray-300);
+}
+.download4 {
+  position: relative;
+  line-height: 177.02%;
+}
+.vector-icon292 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.download-controls,
+.download3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.download3 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslateblue-200);
+  padding: 0 var(--padding-8xs);
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  color: var(--blue);
+}
+.download-controls {
+  align-self: stretch;
+  justify-content: flex-end;
+  gap: var(--gap-xl);
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--borders);
+}
+.frame-parent245,
+.group-parent18 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent245 {
+  align-self: stretch;
+  flex-direction: column;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  justify-content: space-between;
+}
+.group-parent18 {
+  position: absolute;
+  top: 2910px;
+  left: 596px;
+  background-color: var(--white);
+  flex-direction: row;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

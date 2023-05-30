@@ -1,0 +1,92 @@
+.mask-group-icon10 {
+  position: relative;
+  width: 536px;
+  height: 250px;
+  object-fit: cover;
+  z-index: 0;
+}
+.dean-of-students5 {
+  position: relative;
+  font-weight: 600;
+  display: none;
+}
+.from-to-date-child11 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--borders);
+  width: 5px;
+  height: 5px;
+  display: none;
+}
+.to-students5 {
+  position: relative;
+  font-weight: 600;
+}
+.from-to-date-child12 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--borders);
+  width: 5px;
+  height: 5px;
+}
+.from-to-date7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.student-portals-have5 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--blue);
+  text-align: justify;
+}
+.news-info1,
+.upcoming-wrapper {
+  display: flex;
+  box-sizing: border-box;
+}
+.news-info1 {
+  flex: 1;
+  background-color: var(--color-darkslateblue-200);
+  width: 536px;
+  flex-direction: column;
+  padding: var(--padding-xl) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.upcoming-wrapper {
+  margin: 0 !important;
+  position: absolute;
+  top: 10px;
+  left: 406px;
+  border-radius: var(--br-41xl);
+  background-color: var(--white);
+  width: 120px;
+  height: 33px;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-21xl);
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  font-size: var(--desktop-link-small-size);
+  color: var(--maroon);
+}
+.mask-group-parent5 {
+  height: 392px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--borders);
+  font-family: var(--desktop-link-x-small);
+}

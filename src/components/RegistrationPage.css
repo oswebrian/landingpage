@@ -1,0 +1,32 @@
+.vector-icon307 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.kindly-make-your {
+  margin: 0;
+}
+.kindly-make-your-container,
+.vector-icon308 {
+  position: relative;
+}
+.vector-icon308 {
+  width: 20px;
+  height: 20px;
+}
+.page-title1 {
+  position: absolute;
+  top: 136px;
+  left: 40px;
+  width: 1470px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-465xl);
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

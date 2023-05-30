@@ -1,0 +1,485 @@
+.courses-and-programs-child,
+.courses-and-programs-item {
+  position: absolute;
+  top: 1451px;
+  left: 0;
+  background-color: var(--blue);
+  width: 1728px;
+  height: 1735px;
+}
+.courses-and-programs-item {
+  top: 4323px;
+  background-color: var(--color-darkslateblue-200);
+  height: 694px;
+}
+.we-offer {
+  color: var(--blue);
+}
+.industry-leading {
+  color: var(--maroon);
+}
+.we-offer-industry-leading-and {
+  margin: 0;
+}
+.we-offer-industry-container {
+  position: absolute;
+  top: 1019px;
+  left: 533px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+}
+.our-courses-are-container {
+  position: absolute;
+  top: 1134px;
+  left: 531px;
+  font-weight: 600;
+  color: var(--color-darkslateblue-400);
+}
+.this-table-shows {
+  position: absolute;
+  top: 3216px;
+  left: 527px;
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+  width: 1161px;
+}
+.vector-icon17 {
+  position: absolute;
+  height: 4.06%;
+  width: 12.04%;
+  top: 17.98%;
+  right: 73.43%;
+  bottom: 77.97%;
+  left: 14.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.course-types {
+  position: absolute;
+  top: 1309px;
+  left: 94px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+}
+.program-brief-view {
+  position: absolute;
+  top: 3216px;
+  left: 48px;
+  font-size: var(--font-size-9xl);
+  font-weight: 600;
+}
+.study-modes1 {
+  position: relative;
+  font-weight: 600;
+}
+.we-offer-both-container {
+  position: relative;
+  font-size: var(--desktop-link-small-size);
+  font-weight: 500;
+  color: var(--color-darkslateblue-400);
+  text-align: center;
+  display: inline-block;
+  width: 1112px;
+}
+.study-modes-head,
+.study-modes-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.study-modes-parent {
+  align-items: center;
+  gap: var(--gap-xl);
+}
+.study-modes-head {
+  border-top: 1px solid var(--color-gainsboro-200);
+  border-right: 1px solid var(--color-gainsboro-200);
+  border-left: 1px solid var(--color-gainsboro-200);
+  padding: 36px var(--padding-3xs);
+  align-items: flex-start;
+}
+.campus-locations {
+  position: relative;
+  font-weight: 500;
+}
+.campus-locations-wrapper {
+  width: 566px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) 0 var(--padding-3xs) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+}
+.garden-estate-off4,
+.main-campus {
+  position: relative;
+  line-height: 177.02%;
+}
+.main-campus {
+  font-weight: 500;
+}
+.garden-estate-off4 {
+  font-size: var(--desktop-link-x-small-size);
+}
+.campus {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.union-icon5 {
+  position: relative;
+  width: 11.79px;
+  height: 15px;
+}
+.view-location {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslateblue-200);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-3xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--desktop-link-x-small-size);
+}
+.campus-location {
+  align-self: stretch;
+  background-color: var(--color-darkslateblue-300);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.campus-location-parent {
+  width: 566px;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  font-size: var(--desktop-link-small-size);
+}
+.campus-location-parent,
+.frame-parent9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.study-modes-body-inner,
+.virtual-platforms-wrapper {
+  display: flex;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+.study-modes-body-inner {
+  border-top: 1px solid var(--color-gainsboro-200);
+  border-bottom: 1px solid var(--color-gainsboro-200);
+  border-left: 1px solid var(--color-gainsboro-200);
+  height: 330px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.virtual-platforms-wrapper {
+  width: 566px;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-5xl);
+  justify-content: center;
+}
+.notes-and-all {
+  position: relative;
+  font-size: var(--desktop-link-x-small-size);
+  text-align: justify;
+  display: inline-block;
+  width: 546px;
+}
+.npbc-lms-parent {
+  align-self: stretch;
+  background-color: var(--color-darkslateblue-300);
+  flex-direction: column;
+  gap: var(--gap-8xs);
+}
+.frame-parent10,
+.npbc-lms-parent,
+.study-modes-body,
+.study-modes-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent10 {
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  height: 330px;
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.study-modes-body,
+.study-modes-section {
+  flex-direction: row;
+  font-size: var(--font-size-5xl);
+}
+.study-modes-section {
+  position: absolute;
+  top: 4423px;
+  left: 298px;
+  background-color: var(--white);
+  flex-direction: column;
+  font-size: var(--font-size-9xl);
+}
+.location9 {
+  font-weight: 600;
+}
+.garden-estate-off6,
+.location9 {
+  font-family: var(--desktop-link-x-small);
+}
+.adminnpbccoke14 {
+  text-decoration: underline;
+}
+.adminnpbccoke13 {
+  color: inherit;
+}
+.location-garden-estate-container4 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  line-height: 177.02%;
+}
+.news-and-events8 {
+  margin: 0;
+  color: inherit;
+}
+.npbc-online-reflection-container4 {
+  position: absolute;
+  top: 62px;
+  left: 1146px;
+  line-height: 177.02%;
+}
+.admissions-student-life-container4,
+.history-mission-container4 {
+  position: absolute;
+  top: 62px;
+  left: 806px;
+  line-height: 177.02%;
+}
+.history-mission-container4 {
+  left: 466px;
+}
+.explore4,
+.npbc8,
+.quick-links4,
+.research4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  color: var(--white);
+}
+.explore4,
+.quick-links4,
+.research4 {
+  left: 806px;
+}
+.explore4,
+.research4 {
+  left: 1146px;
+}
+.explore4 {
+  left: 466px;
+}
+.location-garden-estate-off-th-parent2 {
+  position: relative;
+  width: 1309px;
+  height: 262px;
+}
+.footer9,
+.g5a0631-1-scaled-1-icon4 {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.footer9 {
+  top: 262px;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-60xl) var(--padding-190xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.g5a0631-1-scaled-1-icon4 {
+  top: 0;
+  height: 262px;
+  object-fit: cover;
+}
+.become-a-student-container4,
+.button4 {
+  position: relative;
+  line-height: 59.6px;
+}
+.button4 {
+  line-height: 28px;
+  font-weight: 600;
+}
+.button-primary4 {
+  border-radius: var(--br-xs);
+  background-color: var(--white);
+  width: 317px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+}
+.become-a-student-at-npbc-parent2 {
+  position: absolute;
+  top: 26px;
+  left: 625px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.g5a0631-1-scaled-1-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 262px;
+  text-align: center;
+  font-size: 46.52px;
+  color: var(--white);
+}
+.footer8 {
+  position: absolute;
+  top: 5017px;
+  left: 0;
+  width: 1728px;
+  height: 682px;
+  font-size: var(--desktop-link-x-small-size);
+  color: var(--font-inherit);
+}
+.fees-per-course-wrapper,
+.program-name-wrapper {
+  background-color: var(--color-darkslateblue-200);
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-mini) var(--padding-3xs);
+  box-sizing: border-box;
+}
+.program-name-wrapper {
+  width: 278px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fees-per-course-wrapper {
+  width: 258px;
+}
+.fees-per-course-wrapper,
+.frame-parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bachelor-of-arts {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 248px;
+  flex-shrink: 0;
+}
+.bachelor-of-arts-in-bible-and-wrapper {
+  width: 278px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.church-ministers-and {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 260px;
+  flex-shrink: 0;
+}
+.frame-parent15,
+.ksh-7500-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ksh-7500-wrapper {
+  width: 258px;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-parent15 {
+  padding: var(--padding-xl) 0;
+}
+.frame-child9 {
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1649px;
+  height: 1px;
+}
+.frame-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.years {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 255px;
+  flex-shrink: 0;
+}
+.frame-parent12,
+.table-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.table-content {
+  background-color: var(--color-darkslateblue-300);
+  font-size: var(--font-size-xl);
+}
+.frame-parent12 {
+  position: absolute;
+  top: 3348px;
+  left: 40px;
+  font-size: var(--font-size-5xl);
+}
+.courses-and-programs {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 5699px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

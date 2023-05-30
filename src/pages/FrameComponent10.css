@@ -1,0 +1,295 @@
+.frame-child60 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1550px;
+  height: 864px;
+  display: none;
+}
+.frame-parent214,
+.welcome-wrapper6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welcome-wrapper6 {
+  padding: var(--padding-3xs);
+}
+.frame-parent214 {
+  position: absolute;
+  top: 40px;
+  left: 154px;
+  gap: var(--gap-70xl);
+  font-size: var(--desktop-link-x-small-size);
+}
+.frame-child61,
+.frame-child62 {
+  position: absolute;
+  top: 93.5px;
+  left: -2.5px;
+  border-top: 5px solid var(--color-brown-100);
+  box-sizing: border-box;
+  width: 1562px;
+  height: 5px;
+}
+.frame-child62 {
+  border-top: 5px solid var(--maroon);
+  width: 460px;
+}
+.icround-log-in-icon20 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.apply-now32,
+.apply-now33 {
+  position: absolute;
+  top: 758px;
+  border-radius: var(--br-3xs);
+  width: 197px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  font-size: var(--desktop-link-x-small-size);
+}
+.apply-now32 {
+  left: 1313px;
+  background-color: var(--borders);
+  cursor: pointer;
+  color: var(--white);
+}
+.apply-now33 {
+  left: 1096px;
+  background-color: var(--color-brown-100);
+  color: var(--maroon);
+}
+.vector-icon251,
+.vector-icon252 {
+  position: absolute;
+  height: 2.31%;
+  width: 1.29%;
+  top: 15.74%;
+  right: 96.13%;
+  bottom: 81.94%;
+  left: 2.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon252 {
+  right: 2.58%;
+  left: 96.13%;
+}
+.here-is-everything {
+  margin: 0;
+}
+.here-is-everything-container,
+.we-are-glad1 {
+  position: relative;
+}
+.we-are-glad1 {
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+}
+.here-is-everything-you-need-to-parent {
+  position: absolute;
+  top: 136px;
+  left: 533px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-13xl);
+}
+.terms-and-conditions,
+.your-upload-documents {
+  position: absolute;
+  top: 318px;
+  left: 121px;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+}
+.terms-and-conditions {
+  left: 1076px;
+}
+.these-are-the {
+  position: absolute;
+  top: 370px;
+  left: 121px;
+  line-height: 177.02%;
+  display: inline-block;
+  width: 373px;
+}
+.frame-child63,
+.frame-child64 {
+  position: absolute;
+  top: 369.5px;
+  left: 100.5px;
+  border-right: 1px solid var(--borders);
+  box-sizing: border-box;
+  width: 1px;
+  height: 323px;
+}
+.frame-child64 {
+  left: 1055.5px;
+  border-right: 1px solid var(--color-black);
+}
+.national-identification-cardp {
+  position: relative;
+  line-height: 177.02%;
+}
+.academic-transcripts-and-certi-wrapper,
+.national-identification-cardp-wrapper,
+.photo-size-passport-wrapper {
+  position: absolute;
+  top: 444px;
+  left: 121px;
+  width: 354px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.academic-transcripts-and-certi-wrapper,
+.photo-size-passport-wrapper {
+  top: 492px;
+}
+.photo-size-passport-wrapper {
+  top: 540px;
+}
+.application-fee {
+  position: absolute;
+  top: 318px;
+  left: 599px;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+}
+.for-each-program {
+  position: relative;
+  line-height: 177.02%;
+  display: inline-block;
+  width: 373px;
+}
+.for-each-program-should-be-sen-parent {
+  position: absolute;
+  top: 370px;
+  left: 599px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-child65 {
+  position: absolute;
+  top: 369.5px;
+  left: 578.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 323px;
+}
+.ksh-5001 {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 500;
+}
+.diplomas-and-certificate-parent,
+.undergraduate-and-postgraduate-parent {
+  position: absolute;
+  top: 540px;
+  left: 599px;
+  width: 372px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.undergraduate-and-postgraduate-parent {
+  top: 578px;
+}
+.read-the-policies {
+  color: var(--maroon);
+}
+.it-covers-the {
+  position: relative;
+  line-height: 177.02%;
+  font-weight: 500;
+  display: inline-block;
+  width: 373px;
+}
+.vector-icon253 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.academic-policies-parent {
+  width: 372px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-parent215 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.it-covers-the-following-parent,
+.students-should-read-the-polic-parent,
+.vector-parent38 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.students-should-read-the-polic-parent,
+.vector-parent38 {
+  position: absolute;
+  top: 370px;
+  left: 1075px;
+  gap: var(--gap-mini);
+}
+.vector-parent38 {
+  top: 664px;
+  left: 1079px;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.need-help10 {
+  position: absolute;
+  top: 767px;
+  left: 40px;
+  font-size: var(--font-size-lg);
+  line-height: 177.02%;
+  color: var(--borders);
+}
+.rectangle-parent5 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 864px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--desktop-link-small-size);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

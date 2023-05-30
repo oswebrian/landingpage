@@ -1,0 +1,60 @@
+.our-partners {
+  position: relative;
+  font-weight: 600;
+}
+.vector-icon293 {
+  position: relative;
+  width: 148.88px;
+  height: 40px;
+}
+.frame-child86,
+.glitex-logo-1 {
+  position: relative;
+  width: 121.72px;
+  height: 40px;
+}
+.glitex-logo-1 {
+  width: 43.66px;
+  height: 45px;
+  object-fit: cover;
+}
+.glitex-logo-1-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.vector-icon294 {
+  position: relative;
+  width: 24.25px;
+  height: 40px;
+}
+.frame-parent246,
+.partners2 {
+  display: flex;
+  align-items: center;
+}
+.frame-parent246 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.partners2 {
+  position: absolute;
+  top: 5524px;
+  left: 0;
+  background-color: var(--white);
+  width: 1728px;
+  flex-direction: column;
+  padding: var(--padding-61xl);
+  box-sizing: border-box;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}

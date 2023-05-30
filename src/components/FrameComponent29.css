@@ -1,0 +1,28 @@
+.alex,
+.mu {
+  position: absolute;
+  margin: 0 !important;
+  top: 56px;
+  left: 10px;
+  line-height: 177.02%;
+  font-weight: 500;
+  z-index: 2;
+}
+.mu {
+  left: 323px;
+  z-index: 3;
+}
+.instance-parent37 {
+  position: absolute;
+  top: 319px;
+  left: 29px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--blue);
+  font-family: var(--desktop-link-x-small);
+}
